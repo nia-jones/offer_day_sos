@@ -2,3 +2,4 @@ parcels
 numpy
 xarray
 matplotlib
+cftime
