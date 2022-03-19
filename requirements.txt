@@ -1,3 +1,4 @@
+cartopy
 parcels
 numpy
 xarray
@@ -18,4 +19,3 @@ pymbolic
 python-dateutil
 scipy
 six
-cartopy
