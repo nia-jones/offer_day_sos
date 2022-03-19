@@ -6,3 +6,4 @@ cftime
 py
 cgen
 netCDF4
+progressbar
