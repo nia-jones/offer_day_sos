@@ -18,3 +18,4 @@ pymbolic
 python-dateutil
 scipy
 six
+cartopy
