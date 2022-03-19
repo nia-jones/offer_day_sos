@@ -7,3 +7,14 @@ py
 cgen
 netCDF4
 progressbar
+cachetools
+enum34
+flake8
+jupyter
+netcdf4
+progressbar2
+py
+pymbolic
+python-dateutil
+scipy
+six
